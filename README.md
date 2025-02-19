@@ -14,7 +14,7 @@ This will be deleted from the final readme.
 
 The interface connecting the model should return the following format:
 
-```JSON
+```js
 {
     [src]: "caption";
     ...
